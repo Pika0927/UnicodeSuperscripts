@@ -1,0 +1,14 @@
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\bin\Debug\netcoreapp3.1\UnicodeSuperscripts.exe
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\bin\Debug\netcoreapp3.1\UnicodeSuperscripts.deps.json
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\bin\Debug\netcoreapp3.1\UnicodeSuperscripts.runtimeconfig.json
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\bin\Debug\netcoreapp3.1\UnicodeSuperscripts.runtimeconfig.dev.json
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\bin\Debug\netcoreapp3.1\UnicodeSuperscripts.dll
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\bin\Debug\netcoreapp3.1\UnicodeSuperscripts.pdb
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\obj\Debug\netcoreapp3.1\UnicodeSuperscripts.csproj.AssemblyReference.cache
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\obj\Debug\netcoreapp3.1\UnicodeSuperscripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\obj\Debug\netcoreapp3.1\UnicodeSuperscripts.AssemblyInfoInputs.cache
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\obj\Debug\netcoreapp3.1\UnicodeSuperscripts.AssemblyInfo.cs
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\obj\Debug\netcoreapp3.1\UnicodeSuperscripts.csproj.CoreCompileInputs.cache
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\obj\Debug\netcoreapp3.1\UnicodeSuperscripts.dll
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\obj\Debug\netcoreapp3.1\UnicodeSuperscripts.pdb
+C:\Projects\SelfProject\UnicodeSuperscripts\UnicodeSuperscripts\obj\Debug\netcoreapp3.1\UnicodeSuperscripts.genruntimeconfig.cache
